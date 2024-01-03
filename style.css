@@ -1,0 +1,24 @@
+body {
+    background-color: coral;
+    color:purple;
+    font-family:'Courier New', Courier, monospace
+}
+
+.heading {
+    width: 80%;
+    background-color:orange;
+    color:blueviolet;
+}
+
+#camera {
+    border-color: limegreen;
+    border-style: double;
+    border-width: 15px;
+    width: 300px;
+    height:350px;
+}
+
+button {
+    color:rgb(254, 171, 183);
+    width: 200px;
+}
